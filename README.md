@@ -1,6 +1,6 @@
-#CDX Coding Language
+# CDX Coding Language
 
-#Introduction
+# Introduction
 
 What is CDX?
 	CDX is a high-level, class-based open-source programming language made with Python and C.
@@ -13,9 +13,9 @@ What is CDX?
 		Video Games
 		And more!
 
-#Installing CDX
+# Installing CDX
 
-#Get Started
+# Get Started
 
 In CDX, every application starts and begins with a class. Unlike Java and other programming languages, CDX's class is a way to seperate code instead to start an application
 
